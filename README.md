@@ -9,61 +9,62 @@
   <img src="https://img.shields.io/badge/Code-Lover-red" alt="Code Lover Badge" />
 </p>
 
+<!-- About Me -->
+<h2 align="center">👨🏻‍💻 &nbsp;About Me</h2>
 ```python
-# Hi there 👋
+import torch
 
-# About Me
-my_name = "whats2000"
-pronouns = "He/Him"
+class whats2000(torch.nn.Module):
+    def __init__(self):
+        super(whats2000, self).__init__()
+        self.name = "whats2000"
+        self.pronouns = "He/Him"
 
-# Projects I'm Currently Working On
-projects = [
-    "LLM Improve Coding Performance - CodeBRT project",
-    "Compose Text Image Retrieval Research - Blip-With-LLMLabelImage project",
-    "CTEC Website Development Phase 2 - CTEC website project"
-]
+        self.projects = [
+            "LLM Improve Coding Performance - CodeBRT project",
+            "Compose Text Image Retrieval Research - Blip-With-LLMLabelImage project",
+            "CTEC Website Development Phase 2 - CTEC website project"
+        ]
 
-# Currently Learning
-learning = [
-    "How to improve coding performance with LLM and user experience",
-    "Zero-shot learning combined with text image retrieval",
-    "React and Node.js for website development"
-]
+        self.learning = [
+            "How to improve coding performance with LLM and user experience",
+            "Zero-shot learning combined with text image retrieval",
+            "React and Node.js for website development"
+        ]
 
-# Looking to Collaborate On
-collaborate_on = ["CodeBRT project"]
+        self.collaborate_on = ["CodeBRT project"]
 
-# Looking for Help With
-help_with = [
-    "LLM improve coding performance",
-    "Frontend development in VSCode extension",
-    "Testing and debugging in VSCode extension on MacOS"
-]
+        self.help_with = [
+            "LLM improve coding performance",
+            "Frontend development in VSCode extension",
+            "Testing and debugging in VSCode extension on MacOS"
+        ]
 
-# Ask Me About
-ask_me_about = [
-    "Developing VSCode extension with React and TypeScript",
-    "PyTorch and Hugging Face Transformers deployment",
-    "TypeScript and React development with Vite",
-    "Website development with React and Node.js"
-]
+        self.ask_me_about = [
+            "Developing VSCode extension with React and TypeScript",
+            "PyTorch and Hugging Face Transformers deployment",
+            "TypeScript and React development with Vite",
+            "Website development with React and Node.js"
+        ]
 
-# How to Reach Me
-reach_me = "Create an issue in the repository"
+        self.reach_me = "Create an issue in the repository"
 
-# I Love
-love = [
-    "Coding Frontend",
-    "Playing with Torch",
-    "Trying new languages I've never used before",
-    "Publishing interesting projects"
-]
+        self.love = [
+            "Coding Frontend",
+            "Playing with Torch",
+            "Trying new languages I've never used before",
+            "Publishing interesting projects"
+        ]
 
-# Fun Facts
-fun_facts = [
-    "I am writing this README.md at 03:54 AM 🤔",
-    "I am a night owl 🦉"
-]
+        self.fun_facts = [
+            "I am writing this README.md at 03:54 AM 🤔",
+            "I am a night owl 🦉"
+        ]
+
+    def forward(self, input):
+        return input
+
+profile = whats2000()
 ```
 
 <!-- IDE Used -->
@@ -106,6 +107,8 @@ fun_facts = [
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="45" height="45"/>
 </p>
 
+<!-- Status Satistics -->
+<h2 align="center">📈 &nbsp;GitHub Stats</h2>
 ![whats2000's GitHub stats](https://github-readme-stats.vercel.app/api?username=whats2000&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whats2000&langs_count=8&theme=radical&layout=compact)
 ![Snake animation](https://github.com/whats2000/whats2000/blob/output/github-contribution-grid-snake.svg)
