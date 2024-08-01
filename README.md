@@ -111,9 +111,11 @@ profile = whats2000()
 <!-- Status Satistics -->
 <h2 align="center">📈 &nbsp;GitHub Stats</h2>
 
-![whats2000's GitHub stats](https://github-readme-stats.vercel.app/api?username=whats2000&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whats2000&langs_count=8&theme=radical&layout=compact)
-![Snake animation](https://github.com/whats2000/whats2000/blob/output/github-contribution-grid-snake.svg)
+<!-- Force the same height for the two cards -->
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
+    <img src="https://github-readme-stats.vercel.app/api?username=whats2000&show_icons=true&theme=radical" alt="whats2000's GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whats2000&langs_count=8&theme=radical&layout=compact" alt="Top Languages"/>
+</div>
 
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&animation=fadeIn&descAlignY=51&descAlign=62"/>
