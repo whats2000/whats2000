@@ -110,6 +110,7 @@ profile = whats2000()
 
 <!-- Status Satistics -->
 <h2 align="center">📈 &nbsp;GitHub Stats</h2>
+
 ![whats2000's GitHub stats](https://github-readme-stats.vercel.app/api?username=whats2000&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whats2000&langs_count=8&theme=radical&layout=compact)
 ![Snake animation](https://github.com/whats2000/whats2000/blob/output/github-contribution-grid-snake.svg)
