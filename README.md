@@ -9,52 +9,66 @@
   <img src="https://img.shields.io/badge/Code-Lover-red" alt="Code Lover Badge" />
 </p>
 
-### Hi there 👋
+```python
+# Hi there 👋
 
-#### 👂 About Me
-- **My name is**: whats2000
-- **Pronouns**: He/Him
+# About Me
+my_name = "whats2000"
+pronouns = "He/Him"
 
-#### 🔭 Projects I'm Currently Working On
-1. **LLM Improve Coding Performance** - CodeBRT project
-2. **Compose Text Image Retrieval Research** - Blip-With-LLMLabelImage project
-3. **CTEC Website Development Phase 2** - CTEC website project
+# Projects I'm Currently Working On
+projects = [
+    "LLM Improve Coding Performance - CodeBRT project",
+    "Compose Text Image Retrieval Research - Blip-With-LLMLabelImage project",
+    "CTEC Website Development Phase 2 - CTEC website project"
+]
 
-#### 🌱 Currently Learning
-1. How to improve coding performance with LLM and user experience
-2. Zero-shot learning combined with text image retrieval
-3. React and Node.js for website development
+# Currently Learning
+learning = [
+    "How to improve coding performance with LLM and user experience",
+    "Zero-shot learning combined with text image retrieval",
+    "React and Node.js for website development"
+]
 
-#### 🤝 Looking to Collaborate On
-1. CodeBRT project
+# Looking to Collaborate On
+collaborate_on = ["CodeBRT project"]
 
-#### 🤔 Looking for Help With
-1. LLM improve coding performance
-2. Frontend development in VSCode extension
-3. Testing and debugging in VSCode extension on MacOS
+# Looking for Help With
+help_with = [
+    "LLM improve coding performance",
+    "Frontend development in VSCode extension",
+    "Testing and debugging in VSCode extension on MacOS"
+]
 
-#### 💬 Ask Me About
-1. Developing VSCode extension with React and TypeScript
-2. PyTorch and Hugging Face Transformers deployment
-3. TypeScript and React development with Vite
-4. Website development with React and Node.js
+# Ask Me About
+ask_me_about = [
+    "Developing VSCode extension with React and TypeScript",
+    "PyTorch and Hugging Face Transformers deployment",
+    "TypeScript and React development with Vite",
+    "Website development with React and Node.js"
+]
 
-#### 📫 How to Reach Me
-1. Create an issue in the repository
+# How to Reach Me
+reach_me = "Create an issue in the repository"
 
-#### ❤️ I Love
-1. Coding Frontend
-2. Playing with Torch
-3. Trying new languages I've never used before
-4. Publishing interesting projects
+# I Love
+love = [
+    "Coding Frontend",
+    "Playing with Torch",
+    "Trying new languages I've never used before",
+    "Publishing interesting projects"
+]
 
-#### ⚡ Fun Facts
-1. I am writing this README.md at 03:54 AM 🤔
-2. I am a night owl 🦉
+# Fun Facts
+fun_facts = [
+    "I am writing this README.md at 03:54 AM 🤔",
+    "I am a night owl 🦉"
+]
+```
 
 <!-- IDE Used -->
-<h2>🛠 &nbsp;IDEs I Use</h2>
-<p>
+<h2 align="center">🛠 &nbsp;IDEs I Use</h2>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij" width="45" height="45"/>
@@ -64,16 +78,16 @@
 </p>
 
 <!-- Version Control -->
-<h2>🗃 &nbsp;Version Control</h2>
-<p>
+<h2 align="center">🗃 &nbsp;Version Control</h2>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" width="45" height="45"/>
 </p>
 
 <!-- Languages -->
-<h2>💻 &nbsp;Languages I Use</h2>
-<p>
+<h2 align="center">💻 &nbsp;Languages I Use</h2>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
@@ -85,8 +99,8 @@
 </p>
 
 <!-- Other Tools -->
-<h2>🛠 &nbsp;Other Tools I Use</h2>
-<p>
+<h2 align="center">🛠 &nbsp;Other Tools I Use</h2>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="45" height="45"/>
