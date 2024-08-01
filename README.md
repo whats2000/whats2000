@@ -117,6 +117,8 @@ profile = whats2000()
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whats2000&langs_count=8&theme=radical&layout=compact" alt="Top Languages"/>
 </div>
 
+![snake animation](https://github.com/whats2000/whats2000/blob/output/github-contribution-grid-snake2.svg)
+
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&animation=fadeIn&descAlignY=51&descAlign=62"/>
 </p>
