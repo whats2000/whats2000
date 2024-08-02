@@ -112,16 +112,18 @@ profile = whats2000()
 <h2 align="center">📈 &nbsp;GitHub Stats</h2>
 
 <!-- Force the same height for the two cards -->
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
-    <img src="https://github-readme-stats.vercel.app/api?username=whats2000&show_icons=true&theme=radical" alt="whats2000's GitHub Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whats2000&langs_count=8&theme=radical&layout=compact" alt="Top Languages"/>
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=whats2000&show_icons=true&theme=radical" alt="whats2000's GitHub Stats"/>
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whats2000&langs_count=8&theme=radical&layout=compact" alt="Top Languages"/>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/whats2000/whats2000/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/whats2000/whats2000/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/whats2000/whats2000/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/whats2000/whats2000/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/whats2000/whats2000/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/whats2000/whats2000/output/github-contribution-grid-snake.svg">
+    </picture>
+</div>
 
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&animation=fadeIn&descAlignY=51&descAlign=62"/>
