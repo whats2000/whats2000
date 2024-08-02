@@ -115,15 +115,23 @@ profile = whats2000()
 
 <!-- Force the same height for the two cards -->
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=whats2000&show_icons=true&theme=radical" alt="whats2000's GitHub Stats"/>
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whats2000&langs_count=8&theme=radical&layout=compact" alt="Top Languages"/>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=whats2000&show_icons=true&theme=react">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=whats2000&show_icons=true&theme=vue">
+        <img height="200" src="https://github-readme-stats.vercel.app/api?username=whats2000&show_icons=true&theme=radical" alt="whats2000's GitHub Stats"/>
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=whats2000&langs_count=8&theme=react&layout=compact">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=whats2000&langs_count=8&theme=vue&layout=compact">
+        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whats2000&langs_count=8&theme=radical&layout=compact" alt="Top Languages"/>
+    </picture>
 </div>
 
 <div align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/whats2000/whats2000/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/whats2000/whats2000/output/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/whats2000/whats2000/output/github-contribution-grid-snake.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/whats2000/whats2000/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/whats2000/whats2000/output/github-contribution-grid-snake.svg">
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/whats2000/whats2000/output/github-contribution-grid-snake.svg">
     </picture>
 </div>
 
