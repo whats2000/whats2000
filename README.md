@@ -1,5 +1,3 @@
-<h1 align="center" style="display: none;">Welcome to whats2000's GitHub Profile! 🚀</h1>
-
 <p align='center'>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=whats2000&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=51&descAlign=62&fontColor=61DAFB">
