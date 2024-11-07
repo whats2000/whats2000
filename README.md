@@ -27,7 +27,7 @@ class whats2000(torch.nn.Module):
 
         self.projects = [
             "LLM Improve Coding Performance - CodeBRT project",
-            "Compose Text Image Retrieval Research - Blip-With-LLMLabelImage project",
+            "Compose Text Image Retrieval Research - WeiMoCIR project",
             "CTEC Website Development Phase 2 - CTEC website project"
         ]
 
