@@ -29,22 +29,23 @@ class whats2000(torch.nn.Module):
         self.pronouns = "He/Him"
 
         self.projects = [
-            "LLM Improve Coding Performance - CodeBRT project",
-            "Compose Text Image Retrieval Research - WeiMoCIR project",
+            "LLM Agent VScode Extension - CodeBRT project",
+            "NSYSU AI Selector Helper - selector_helper project",
+            "Zero-Shot Composed Text Image Retrieval Research - WeiMoCIR project",
             "CTEC Website Development Phase 2 - CTEC website project"
         ]
 
         self.learning = [
-            "How to improve coding performance with LLM and user experience",
+            "How to use the agent framework with human-in-the-loop with better user experience",
             "Zero-shot learning combined with text image retrieval",
             "React and Node.js for website development"
         ]
 
-        self.collaborate_on = ["CodeBRT project"]
+        self.collaborate_on = ["CodeBRT project", "selector_helper"]
 
         self.help_with = [
-            "LLM improve coding performance",
-            "Frontend development in VSCode extension",
+            "LLM improves coding performance research",
+            "Need people to help with CodeBRT project",
             "Testing and debugging in VSCode extension on MacOS"
         ]
 
@@ -58,7 +59,7 @@ class whats2000(torch.nn.Module):
         self.reach_me = "Create an issue in the repository"
 
         self.love = [
-            "Coding Frontend",
+            "Coding Website",
             "Playing with Torch",
             "Trying new languages I've never used before",
             "Publishing interesting projects"
