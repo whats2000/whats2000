@@ -29,9 +29,8 @@ class whats2000(torch.nn.Module):
         self.pronouns = "He/Him"
 
         self.projects = [
-            "LLM Agent VScode Extension - CodeBRT project",
-            "NSYSU AI Selector Helper - selector_helper project",
-            "Zero-Shot Composed Text Image Retrieval Research - WeiMoCIR project",
+            "LLM Base Code Agent VScode Extension - CodeBRT project",
+            "NSYSU AI Selector Helper Retrieval - selector_helper project",
             "CTEC Website Development Phase 2 - CTEC website project"
         ]
 
@@ -129,6 +128,7 @@ profile = whats2000()
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="45" height="45"/>
   <h3>Backend Development</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" alt="pytest" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
