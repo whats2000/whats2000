@@ -29,29 +29,31 @@ class whats2000(torch.nn.Module):
         self.pronouns = "He/Him"
 
         self.projects = [
-            "LLM Base Code Agent VScode Extension - CodeBRT project",
-            "NSYSU AI Selector Helper Retrieval - selector_helper project",
-            "CTEC Website Development Phase 2 - CTEC website project"
+            "Agent Base Report Generator - AgentLaboratoryWebUI/AgentLaboratory (Fork)",
+            "Zero-shot Text Image Retrieval with test time computation - (Current Private)",
+            "Reinforcement Learning VLM on Medical Report - (Current Private)",
+            "LaplaceAI Lab Agent Base Report Editor Saas Platform - https://www.laplaceai.co/"
         ]
 
         self.learning = [
             "How to use the agent framework with human-in-the-loop with better user experience",
             "Zero-shot learning combined with text image retrieval",
-            "React and Node.js for website development"
+            "Test Time Computation",
+            "React and Node.js for application development"
         ]
 
         self.collaborate_on = ["CodeBRT project", "selector_helper"]
 
         self.help_with = [
-            "LLM improves coding performance research",
-            "Need people to help with CodeBRT project",
-            "Testing and debugging in VSCode extension on MacOS"
+            "LLM Test Time Computation Research",
+            "VLM/MLLM Retrieval System",
+            "LLM Code Generation Method and Application",
         ]
 
         self.ask_me_about = [
-            "Developing VSCode extension with React and TypeScript",
             "PyTorch and Hugging Face Transformers deployment",
             "TypeScript and React development with Vite",
+            "Developing VSCode extension with React and TypeScript",
             "Website development with React and Node.js"
         ]
 
@@ -104,6 +106,7 @@ profile = whats2000()
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactbootstrap/reactbootstrap-original.svg" alt="reactbootstrap" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="vitejs" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="yarn" width="45" height="45"/>
