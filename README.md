@@ -100,7 +100,7 @@ profile = whats2000()
 </div>
 
 <!-- Languages -->
-<h2 align="center">💻 &nbsp;Languages anf Frameworks I Use</h2>
+<h2 align="center">💻 &nbsp;Languages and Frameworks I Use</h2>
 <div align="center">
   <h3>Frontend Development</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>
