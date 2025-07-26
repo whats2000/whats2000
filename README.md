@@ -29,8 +29,9 @@ class whats2000(torch.nn.Module):
         self.pronouns = "He/Him"
 
         self.projects = [
-            "Agent Base Report Generator - AgentLaboratoryWebUI/AgentLaboratory (Fork)",
-            "Zero-shot Text Image Retrieval with test time computation - (Current Private)",
+            "Agent Base Research Assistant",
+            "DTDD Document Orient Software Development Agent",
+            "Zero-shot Text Image Retrieval with efficient reranking - (Current Private)",
             "Reinforcement Learning VLM on Medical Report - (Current Private)",
             "LaplaceAI Lab Agent Base Report Editor Saas Platform - https://www.laplaceai.co/"
         ]
