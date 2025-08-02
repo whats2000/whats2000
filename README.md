@@ -30,7 +30,7 @@ class whats2000(torch.nn.Module):
 
         self.projects = [
             "Agent Base Research Assistant",
-            "DTDD Document Orient Software Development Agent",
+            "DTDD UML Document Orient Software Development Agent",
             "Zero-shot Text Image Retrieval with efficient reranking - (Current Private)",
             "Reinforcement Learning VLM on Medical Report - (Current Private)",
             "LaplaceAI Lab Agent Base Report Editor Saas Platform - https://www.laplaceai.co/"
@@ -40,6 +40,7 @@ class whats2000(torch.nn.Module):
             "How to use the agent framework with human-in-the-loop with better user experience",
             "Zero-shot learning combined with text image retrieval",
             "Test Time Computation",
+            "How to build a LLM",
             "React and Node.js for application development"
         ]
 
@@ -53,18 +54,19 @@ class whats2000(torch.nn.Module):
 
         self.ask_me_about = [
             "PyTorch and Hugging Face Transformers deployment",
+            "Vision Language Model Applications",
             "TypeScript and React development with Vite",
             "Developing VSCode extension with React and TypeScript",
             "Website development with React and Node.js"
         ]
 
-        self.reach_me = "Create an issue in the repository"
+        self.reach_me = "Create an issue in the repository or message me at LinkIn"
 
         self.love = [
-            "Coding Website",
+            "Frontend Vibe Coding for fast POC",
             "Playing with Torch",
             "Trying new languages I've never used before",
-            "Publishing interesting projects"
+            "Publishing interesting open source projects"
         ]
 
         self.fun_facts = [
