@@ -64,7 +64,7 @@ class whats2000(torch.nn.Module):
 
         self.love = [
             "Frontend Vibe Coding for fast POC",
-            "Playing with Torch",
+            "Playing with PyTorch",
             "Trying new languages I've never used before",
             "Publishing interesting open source projects"
         ]
