@@ -31,7 +31,7 @@ class whats2000(torch.nn.Module):
         self.projects = [
             "Agent Base Research Assistant",
             "DTDD UML Document Orient Software Development Agent",
-            "Zero-shot Text Image Retrieval with efficient reranking - (Current Private)",
+            "Zero-shot Composed Text Image Retrieval with efficient reranking - (Current Private)",
             "Reinforcement Learning VLM on Medical Report - (Current Private)",
             "LaplaceAI Lab Agent Base Report Editor Saas Platform - https://www.laplaceai.co/"
         ]
