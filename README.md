@@ -29,7 +29,7 @@ class whats2000(torch.nn.Module):
         self.pronouns = "He/Him"
 
         self.projects = [
-            "Agent Base Research Assistant",
+            "Physical AI",
             "DTDD UML Document Orient Software Development Agent",
             "Zero-shot Composed Text Image Retrieval with efficient reranking - (Current Private)",
         ]
