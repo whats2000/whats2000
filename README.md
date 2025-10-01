@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Deeplearner-PyTorch-orange" alt="Deeplearner Badge" />
-  <a href="https://arxiv.org/abs/2409.04918"><img src="https://img.shields.io/badge/arXiv-2409.04918-b31b1b.svg" /></a>
+  <a href="https://arxiv.org/abs/2509.26330"><img src="https://img.shields.io/badge/arXiv-2509.26330-b31b1b.svg" /></a>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Web_Developer-React-blue" alt="Web Developer Badge" />
