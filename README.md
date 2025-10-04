@@ -31,7 +31,7 @@ class whats2000(torch.nn.Module):
         self.projects = [
             "Physical AI",
             "DTDD UML Document Orient Software Development Agent",
-            "Zero-shot Composed Text Image Retrieval with efficient reranking - (Current Private)",
+            "SQUARE: Semantic Query - Augmented Fusion and Efficient Batch Reranking for Training-free Zero-Shot Composed Image Retrieval",
         ]
 
         self.learning = [
