@@ -29,7 +29,7 @@ class whats2000(torch.nn.Module):
         self.pronouns = "He/Him"
 
         self.projects = [
-            "Physical AI",
+            "Physical AI with Reinforcement Learning",
             "DTDD UML Document Orient Software Development Agent",
             "SQUARE: Semantic Query - Augmented Fusion and Efficient Batch Reranking for Training-free Zero-Shot Composed Image Retrieval",
         ]
