@@ -177,9 +177,9 @@ profile = whats2000()
     <img height="200" width="480" src="https://github-readme-stats-nine-lake-93.vercel.app/api?username=whats2000&show_icons=true&theme=radical" alt="whats2000's GitHub Stats"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=whats2000&langs_count=8&theme=react&layout=compact&hide=jupyter%20notebook,html,scss,css">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=whats2000&langs_count=8&theme=vue&layout=compact&hide=jupyter%20notebook,html,scss,css">
-    <img height="200" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whats2000&langs_count=8&theme=radical&layout=compact&hide=jupyter%20notebook,html,scss,css" alt="Top Languages"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nine-lake-93.vercel.app/api/top-langs/?username=whats2000&langs_count=8&theme=react&layout=compact&hide=jupyter%20notebook,html,scss,css">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-nine-lake-93.vercel.app/api/top-langs/?username=whats2000&langs_count=8&theme=vue&layout=compact&hide=jupyter%20notebook,html,scss,css">
+    <img height="200" width="320" src="https://github-readme-stats-nine-lake-93.vercel.app/api/top-langs/?username=whats2000&langs_count=8&theme=radical&layout=compact&hide=jupyter%20notebook,html,scss,css" alt="Top Languages"/>
   </picture>
 </div>
 
