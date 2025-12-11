@@ -185,9 +185,9 @@ profile = whats2000()
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=whats2000&theme=react&card_width=480&card_height=200">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=whats2000&theme=vue&card_width=480&card_height=200">
-    <img height="160" width="370" src="https://streak-stats.demolab.com/?user=whats2000&theme=react&card_width=320&card_height=180" alt="whats2000's GitHub Streak Stats"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-opal-two.vercel.app/?user=whats2000&theme=react&card_width=480&card_height=200">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-opal-two.vercel.app/?user=whats2000&theme=vue&card_width=480&card_height=200">
+    <img height="160" width="370" src="https://github-readme-streak-stats-opal-two.vercel.app/?user=whats2000&theme=react&card_width=320&card_height=180" alt="whats2000's GitHub Streak Stats"/>
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=whats2000&theme=react">
