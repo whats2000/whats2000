@@ -172,9 +172,9 @@ profile = whats2000()
 <!-- Force the same height for the two cards -->
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=whats2000&show_icons=true&theme=react">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=whats2000&show_icons=true&theme=vue">
-    <img height="200" width="480" src="https://github-readme-stats.vercel.app/api?username=whats2000&show_icons=true&theme=radical" alt="whats2000's GitHub Stats"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nine-lake-93.vercel.app/api?username=whats2000&show_icons=true&theme=react">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-nine-lake-93.vercel.app/api?username=whats2000&show_icons=true&theme=vue">
+    <img height="200" width="480" src="https://github-readme-stats-nine-lake-93.vercel.app/api?username=whats2000&show_icons=true&theme=radical" alt="whats2000's GitHub Stats"/>
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=whats2000&langs_count=8&theme=react&layout=compact&hide=jupyter%20notebook,html,scss,css">
