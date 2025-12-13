@@ -30,7 +30,7 @@ class whats2000(torch.nn.Module):
 
         self.projects = [
             "Physical AI as human assistant",
-            "DTDD UML Document Orient Software Development Agent",
+            "DTDD UML Document Orient Software Development Multi-Agent System",
             "SQUARE: Semantic Query - Augmented Fusion and Efficient Batch Reranking for Training-free Zero-Shot Composed Image Retrieval",
         ]
 
@@ -39,7 +39,8 @@ class whats2000(torch.nn.Module):
             "Zero-shot learning combined with text image retrieval",
             "Test Time Computation",
             "How to build a LLM",
-            "React and Node.js for application development"
+            "Vision Language Action Model",
+            "Affordable Robotic"
         ]
 
         self.collaborate_on = ["CodeBRT project", "selector_helper"]
