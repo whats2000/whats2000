@@ -30,7 +30,6 @@ class whats2000(torch.nn.Module):
 
         self.projects = [
             "Physical AI as human assistant",
-            "DTDD UML Document Orient Software Development Multi-Agent System",
             "SQUARE: Semantic Query - Augmented Fusion and Efficient Batch Reranking for Training-free Zero-Shot Composed Image Retrieval",
         ]
 
