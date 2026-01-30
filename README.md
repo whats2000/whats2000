@@ -39,7 +39,8 @@ class whats2000(torch.nn.Module):
             "Test Time Computation",
             "How to build a LLM",
             "Vision Language Action Model",
-            "Affordable Robotic"
+            "Affordable Robotic",
+            "Human Central AI"
         ]
 
         self.collaborate_on = ["CodeBRT project", "selector_helper"]
