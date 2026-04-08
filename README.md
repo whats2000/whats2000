@@ -29,7 +29,7 @@ class whats2000(torch.nn.Module):
         self.pronouns = "He/Him"
 
         self.projects = [
-            "Physical AI as human assistant",
+            "Physical AI as a human assistant",
             "SQUARE: Semantic Query - Augmented Fusion and Efficient Batch Reranking for Training-free Zero-Shot Composed Image Retrieval",
         ]
 
@@ -37,7 +37,7 @@ class whats2000(torch.nn.Module):
             "How to use the agent framework with human-in-the-loop with better user experience",
             "Zero-shot learning combined with text image retrieval",
             "Test Time Computation",
-            "How to build a LLM",
+            "How to build an LLM",
             "Vision Language Action Model",
             "Affordable Robotic",
             "Human Central AI"
