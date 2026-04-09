@@ -30,7 +30,7 @@ class whats2000(torch.nn.Module):
 
         self.projects = [
             "Physical AI as a human assistant",
-            "SQUARE: Semantic Query - Augmented Fusion and Efficient Batch Reranking for Training-free Zero-Shot Composed Image Retrieval",
+            "Isaac Sim MCP server"
         ]
 
         self.learning = [
